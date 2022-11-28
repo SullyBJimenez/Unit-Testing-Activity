@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "course-utilities": "^1.0.0",
+    "jest": "^26.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
